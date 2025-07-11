@@ -1,0 +1,12 @@
+﻿name: finance
+channels:
+  - defaults
+dependencies:
+  - python=3.13.5
+  - seaborn
+  - yfinance
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - numpy
+prefix: C:\Users\Hasan\miniconda3\envs\rasterenv
